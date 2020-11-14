@@ -1,0 +1,11 @@
+{
+  "EMAIL_ADDRESS": "asd@gmail.com",
+  "EMAIL_PASSWORD": "",
+  "FILE_NAME": "List-of-Bill-Pay.xlsx",
+  "DUE_DATE_DIFF": "2",
+  "subject": "dfdfd",
+  "body": '''Dear  {CompanyName}
+  
+  Thank you,
+  Kaushik '''
+}
